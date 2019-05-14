@@ -29,6 +29,7 @@ https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf
 https://swcarpentry.github.io/r-novice-inflammation/  
 https://cengel.github.io/rspatial/  
 R for data science https://r4ds.had.co.nz/  
+Advanced R http://adv-r.had.co.nz/  
 https://datacarpentry.org/lessons/   
 https://clayford.github.io/dwir/dwr_05_combine_merge_rehsape_data.html  
 https://pakillo.github.io/R-GIS-tutorial  
