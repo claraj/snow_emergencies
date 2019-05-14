@@ -2,15 +2,16 @@
 
 *(1) selecting another research project where Random Forests can be applied, (2) collating all the requisite geospatial data to complete the data, and (3) adapting the Random Forests R code so the model runs on your data.*
 
-## Motivation: what factors affect the likelihood of being ticketed (aka tagged) vs being towed? 
+## Motivation: what factors affect the likelihood of being tagged (aka ticketed) vs being towed? 
 
 Example set of snow emergencies from snow emergency Westminster, Febriary 2019, from Minneapolis Open Data 
 
 Factors considered so far:
--Ward
--Neighborhood
--Day of snow emergency
--Type of street, local, residential, parkway, collector, highway...
+
+- Ward
+- Neighborhood
+- Day of snow emergency
+- Type of street, local, residential, parkway, collector, highway...
 - Driving distance to impound lot
 - Driving time to impound lot 
 
