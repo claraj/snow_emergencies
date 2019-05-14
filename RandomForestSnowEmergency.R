@@ -3,9 +3,9 @@
 library("randomForest")
 library("raster")
 
-setwd("/Users/student1/Development/r/snow_proj/data")
+setwd("/Users/student1/Development/r/cleanup_snow_project/data")
 
-dataframe <- read.csv(file="SNOW_TAG_TOW_TYPES_TESTING_R_SCRIPT_FAKE_FAKE_FAKE_DATA.csv")
+dataframe <- read.csv(file="SNOW_TAG_TOW_TYPES.csv")
 head(dataframe)
 
 # Ward (1, 2, 3....), Tow_Zone (1 - 6), Day (1, 2, 3) are numerical and interpreted as numeric type. 
