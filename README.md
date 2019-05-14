@@ -22,33 +22,34 @@ Factors to considered in future version
 
 ## R Resources, examples, tutorials 
 
-https://mgimond.github.io/Spatial/introGIS.html
-http://geog.uoregon.edu/bartlein/courses/geog490/week06-geospatial.html#gridding-or-rasterizing-point-data
-https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf
+https://mgimond.github.io/Spatial/introGIS.html  
+http://geog.uoregon.edu/bartlein/courses/geog490/week06-geospatial.html#gridding-or-rasterizing-point-data  
+https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf  
 
-https://swcarpentry.github.io/r-novice-inflammation/
-https://cengel.github.io/rspatial/
-R for data science https://r4ds.had.co.nz/
-https://datacarpentry.org/lessons/ 
-https://clayford.github.io/dwir/dwr_05_combine_merge_rehsape_data.html
-https://pakillo.github.io/R-GIS-tutorial
+https://swcarpentry.github.io/r-novice-inflammation/  
+https://cengel.github.io/rspatial/  
+R for data science https://r4ds.had.co.nz/  
+https://datacarpentry.org/lessons/   
+https://clayford.github.io/dwir/dwr_05_combine_merge_rehsape_data.html  
+https://pakillo.github.io/R-GIS-tutorial  
 
-https://github.com/rstudio/cheatsheets/blob/master/data-transformation.pdf
-https://github.com/tidyverse/purrr
+https://github.com/rstudio/cheatsheets/blob/master/data-transformation.pdf  
+https://github.com/tidyverse/purrr  
 
-QGIS 
-https://docs.qgis.org/3.4/en/docs/user_manual/introduction/getting_started.html#output
+**QGIS** 
 
-Random Forest 
+https://docs.qgis.org/3.4/en/docs/user_manual/introduction/getting_started.html#output  
 
-https://datascienceplus.com/random-forests-in-r/ 
-https://cran.r-project.org/web/packages/randomForest/randomForest.pdf
+**Random Forest**   
 
-Predict 
+https://datascienceplus.com/random-forests-in-r/   
+https://cran.r-project.org/web/packages/randomForest/randomForest.pdf  
 
-https://www.rdocumentation.org/packages/stats/versions/3.5.3/topics/predict
-https://www.rspatial.org/sdm/
+**Predict**  
 
-R syntax
+https://www.rdocumentation.org/packages/stats/versions/3.5.3/topics/predict  
+https://www.rspatial.org/sdm/  
 
-https://www.datacamp.com/community/tutorials/r-formula-tutorial
+**R syntax**  
+
+https://www.datacamp.com/community/tutorials/r-formula-tutorial  
