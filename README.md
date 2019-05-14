@@ -20,9 +20,6 @@ Factors to considered in future version
 - Renters vs owners 
 - Languages spoken in household (is the city doing enough to communicate with residents who are more fluent in a language other than English?)
 
-
-Factors 
-
 ## R Resources, examples, tutorials 
 
 https://mgimond.github.io/Spatial/introGIS.html
