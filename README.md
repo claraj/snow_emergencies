@@ -33,6 +33,7 @@ Advanced R http://adv-r.had.co.nz/
 https://datacarpentry.org/lessons/   
 https://clayford.github.io/dwir/dwr_05_combine_merge_rehsape_data.html  
 https://pakillo.github.io/R-GIS-tutorial  
+https://www.neonscience.org/raster-data-r  
 
 https://github.com/rstudio/cheatsheets/blob/master/data-transformation.pdf  
 https://github.com/tidyverse/purrr  
